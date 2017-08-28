@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Lesley",
+      "price": 2490,
+      "image_url": "https://files3.glazziq.com/uploads/catalog3/798c4232-5a3a-4159-b62b-38588bdbdb96_1300.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Pascal",
+      "price": 1990,
+      "image_url": "https://files3.glazziq.com/uploads/catalog3/cc233569-27c9-47cf-8739-d4917782a778_1300.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Ernest",
+      "price": 2490,
+      "image_url": "https://files3.glazziq.com/uploads/catalog3/deeab946-b2b0-4136-af90-05d96451814e_1300.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Galileo",
+      "price": 1990,
+      "image_url": "https://files3.glazziq.com/uploads/catalog3/ece6ba58-de80-45a3-aab2-a1dcad1b217d_1300.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Morris",
+      "price": 2490,
+      "image_url": "https://files3.glazziq.com/uploads/catalog3/5f5a2754-753a-4c3c-9240-52e332b0f71d_1300.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Newton",
+      "price": 1990,
+      "image_url": "https://files3.glazziq.com/uploads/catalog3/c894f754-f9d5-44bf-9950-d20b8f25271d_1300.jpeg"
+    }
+  ]
+}
